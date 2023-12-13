@@ -38,7 +38,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -79,7 +79,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -148,7 +148,7 @@
         "dataTypes": [
             "VIS"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -206,7 +206,7 @@
             "VIS",
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Combining"
         ],
@@ -240,7 +240,7 @@
         "visTypes": [
             "Bar",
             "Scatter",
-            "Line"
+            "Line","Others"
         ],
         "rawDataConstruction": [
             "Extraction"
@@ -327,7 +327,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -369,7 +369,7 @@
             "Bar",
             "Scatter",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -398,7 +398,7 @@
         "dataTypes": [],
         "visTypes": [
             "Bar",
-            "Line"
+            "Line","Others"
         ],
         "rawDataConstruction": [
             "Combining"
@@ -471,7 +471,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crowdsourcing"
@@ -585,7 +585,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Synthesizing"
@@ -663,7 +663,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -699,7 +699,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -771,7 +771,7 @@
             "VIS",
             "NL"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -810,7 +810,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -845,7 +845,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling",
@@ -881,7 +881,7 @@
         "dataTypes": [
             "VIS"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling",
             "Synthesizing"
@@ -925,7 +925,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -967,7 +967,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Synthesizing"
@@ -1031,7 +1031,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -1065,7 +1065,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -1214,7 +1214,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Extraction"
@@ -1254,7 +1254,7 @@
             "Visual Element",
             "Element Position"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -1293,7 +1293,7 @@
             "Visual Element",
             "Element Position"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -1330,7 +1330,7 @@
         "dataTypes": [
             "VIS"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crowdsourcing"
         ],
@@ -1363,7 +1363,7 @@
             "Bar",
             "Scatter",
             "Line",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Synthesizing"
@@ -1404,7 +1404,7 @@
             "Bar",
             "Scatter",
             "Line",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Synthesizing"
@@ -1558,7 +1558,7 @@
             "Scatter",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -1670,7 +1670,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -1738,7 +1738,7 @@
             "Bar",
             "Scatter",
             "Line",
-            "Area"
+            "Area","Others"
         ],
         "rawDataConstruction": [
             "Crawling"
@@ -1773,7 +1773,7 @@
         "dataTypes": [
             "VIS"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Extraction"
         ],
@@ -1851,7 +1851,7 @@
             "Visual Element",
             "Element Position"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -1889,7 +1889,7 @@
             "VIS",
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -1915,7 +1915,7 @@
         "title": "Communicating with Motion: A Design Space for Animated Visual Narratives in Data Videos",
         "year": "2021",
         "dataTypes": [],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -1943,7 +1943,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -1971,7 +1971,7 @@
         "dataTypes": [
             "VIS"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -2000,7 +2000,7 @@
             "VIS",
             "NL"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -2035,7 +2035,7 @@
             "VIS",
             "NL"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Combining"
         ],
@@ -2113,7 +2113,7 @@
             "Data",
             "Mapping"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crowdsourcing"
         ],
@@ -2147,7 +2147,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -2182,7 +2182,7 @@
             "VIS",
             "NL"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Crawling"
         ],
@@ -2220,7 +2220,7 @@
         "visTypes": [
             "Bar",
             "Scatter",
-            "Line"
+            "Line","Others"
         ],
         "rawDataConstruction": [
             "Combining"
@@ -2255,7 +2255,7 @@
             "Data",
             "Mapping"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -2289,7 +2289,7 @@
             "Bar",
             "Line",
             "Area",
-            "Pie"
+            "Pie","Others"
         ],
         "rawDataConstruction": [
             "Crawling",
@@ -2319,7 +2319,7 @@
         "dataTypes": [
             "Data"
         ],
-        "visTypes": [],
+        "visTypes": ["Others"],
         "rawDataConstruction": [
             "Synthesizing"
         ],
@@ -2345,5 +2345,107 @@
         "venue": "",
         "venueField": "",
         "doi": "10.1109/TVCG.2022.3197203"
+    },
+    {
+        "idx": "AutoTitle",
+        "title": "AutoTitle: An Interactive Title Generator for Visualizations",
+        "year": "2023",
+        "dataTypes": [
+            "NL","Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual", "Rule-based","Learning-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 6000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Can Liu", "Yuhan Guo", "Xiaoru Yuan"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2023.3290241"
+    },
+    {
+        "idx": "OldVisOnline",
+        "title": "OldVisOnline: Curating a Dataset of Historical Visualizations",
+        "year": "2023",
+        "dataTypes": [
+            "VIS","VIS Type"
+        ],
+        "visTypes": ["Bar","Scatter","Line","Area","Pie","Others"],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual","Learning-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 13511,
+        "stillGrow": [
+            "Yes"
+        ],
+        "url": "",
+        "authors": ["Yu Zhang", "Ruike Jiang", "Liwenhan Xie", "Yuheng Zhao", "Can Liu", "Tianhong Ding", "Siming Chen", "Xiaoru Yuan"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2023.3326908"
+    },
+    {
+        "idx": "MoneyVis",
+        "title": "MoneyVis: Open Bank Transaction Data for Visualization and Beyond",
+        "year": "2023",
+        "dataTypes": [
+            "Data","Others"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crowdsourcing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            
+        ],
+        "size": 1,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Elif E. Firat", "Dharmateja Vytla", "Navya Vasudeva Singh", "Zhuoqun Jiang", "Robert S. Laramee"],
+        "journal": "Proceedings of the Eurographics/IEEE VGTC Conference on Visualization (Short Papers)",
+        "venue": "",
+        "venueField": "",
+        "doi": ""
     }
 ]
