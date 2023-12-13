@@ -1,66 +1,66 @@
-name,paper,VIS,NL,VIS Type,Data,Mapping,Visual Element,Element Position,Others,Bar,Scatter,Line,Area,Pie,Others,#Visualizations,#Others,Still Growing (Yes/No/Not Mentioned),Crawling,Extraction,Crowdsourcing,Synthesizing,Combining,Manual,Rule-based,Learning-based,Object Detection,Classification,Regression,Translation,OCR,Dimensionality Reduction,Visualization Recommendation,Reverse Engineering,Feature Extraction,Generation,Retrieval,Exploration,Assessment,url
-SNAP,Leskovec et al. SNAP Datasets: Stanford Large Network Dataset Collection,,,,√,,,,,,,,,,,~150,,X,√,,,,,,,,,,,,,,,,,,,,,https://snap.stanford.edu/data/
-Revision,"Savva et al. Revision: Automated classification, analysis and redesign of chart images",√,,√,,,,,,√,√,√,√,√,"Map, etc.","~2,500",,X,√,,,,,√,,,,,,√,,,,,√,,,√,,http://vis.stanford.edu/papers/revision
-MASSVIS,Borkin et al. What makes a visualization memorable?,√,,√,,,,,√,√,√,√,√,√,"Circular Chart,etc.","5,693",,X,√,,,,,√,,,,,,,,,,,,,,,,http://massvis.mit.edu/
-DiagramFlyer,Chen et al. Diagramflyer: A search engine for data-driven diagrams,√,,,,,,,√,√,√,√,,,,"~300,000",,X,,√,,,,,,√,√,√,,,√,,,√,,,√,,,http://web.eecs.umich.edu/~michjc/structuredweb/datasets/diagram_url.txt.gz
-Aesthetics,Harrison et al. Infographic aesthetics: Designing for the first impression,√,,,,,,,,,,,,,Infographics,~330,,X,√,,,,,√,,,,,,,,,,,,,,,,https://github.com/TuftsVALT/infographic-aesthetics
-WikiTable,https://github.com/ppasupat/WikiTableQuestions,,√,,√,,,,,,,,,,,,"2,108 D, 22,033 QA",X,√,,,,,√,,,,,,,,,,,,,,,,https://github.com/ppasupat/WikiTableQuestions
-Network Repository,Rossi et al. An Interactive Data Repository with Visual Analytics,√,,,√,,,,,,,,,,Graph,"~5,000",,√,,,,,√,,√,,,,,,,,,,,,,,,https://networkrepository.com/
-FigureSeer,Siegel et al. Figureseer: Parsing result-figures in research papers,√,√,,√,,√,,,√,√,√,,,"Flowcharts, etc.","~60,000",,X,,√,,,,√,,,√,√,,,√,,,√,,,√,,,https://github.com/allenai/figureseer
-Reverse engineering,Poco et al. Reverse-engineering visualizations: Recovering visual encodings from chart images,√,,√,,√,,,√,√,√,√,√,,,"5,125",,X,√,,,√,,,,√,√,√,,,√,,,√,,,,√,,https://github.com/uwdata/rev
-ChartSense,ChartSense: Interactive Data Extraction from Chart Images,√,,√,,,,,,√,√,√,√,√,"Map, etc.","6,997",,X,√,,,,,√,√,,,√,,,,,,,√,,√,,,
-DataClips,Amini et al. Authoring data-driven videos with dataclips,√,,√,√,,,,Clip Type,√,√,,√,√,"Circular Chart, etc.",~70,,X,√,,,,,√,,,,,,,,,,,,,,,,
-BubbleView,Kim et al. BubbleView: an interface for crowdsourcing image importance maps and tracking visual attention,,,,,,,,Eyetracking,√,,√,,,"Map, etc.",393,,X,,,,,√,√,,,,,,,,,,,,,,,,http://massvis.mit.edu/
-FigureQA,Kahou et al. Figureqa: An annotated figure dataset for visual reasoning,√,√,,,,,,QA,√,√,√,,,,"100,000","1,000,000 QA",X,,,,√,,,√,,,,,√,,,,,√,√,,,,https://datasets.maluuba.com/FigureQA
-Sightline,Sechler et al. Sightline: Building on the web’s visualization ecosys- tem,√,,,,,,,,√,√,√,√,√,No specific type,"1,300",,X,,,√,,,√,,,,,,,,,,,,,,,,https://sightlinevis.com/
-Beagle,Battle et al. Beagle: Automated extraction and interpretation of visualizations from the web,√,,√,,,,,,√,√,√,√,√,√,"~41,000",,X,√,,,,,,,√,,,,√,,,,,√,,,√,,https://homes.cs.washington.edu/~leibatt/beagle.html
-ScatterNet,Ma et al. Scatternet: A deep subjective similarity model for visual analysis of scatterplots,√,,,,,√,,,,√,,,,,"50,677",,X,,,,√,,√,,,,√,,,,,,,√,,√,,,
-DeepEye,Luo et al. Deepeye: Towards automatic data visualization,√,,,,,,,Rank,√,√,√,√,√,No Specific Type,"~33,400",,X,,,,√,,√,,,,√,,,,,√,,,√,,,,https://deepeye.tech/
-DVQA,Kafle et al. DVQA: Understanding data visualizations via question answering,√,√,,,,,,QA,√,,,,,,"300,000","3,400,000 QA",X,,,,√,,,√,,,,,√,,,,,√,√,,,,https://github.com/kushalkafle/DVQA_dataset
-VizByWiki,Lin et al. Vizbywiki: Mining data visualizations from the web to enrich news articles,√,√,,,,,,,√,√,√,√,√,No specific type,"~3,000,000",,√,√,,,,,,√,√,,√,,,,,,,√,,√,,,https://github.com/vizbywiki/VizByWiki
-GMVR,A Generative Model for Volume Rendering,,,,√,,,,,,,,,,Rendering,200000,,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
-GraphicalPerception,Evaluating 'Graphical Perception' with CNNs,√,,,,,,,,√,,,,√,,"100,000",,X,,,,√,,,,√,,,√,,,,,,√,,,,√,https://github.com/Rhoana/perception
-Text-to-Viz,Cui et al. Text-to-viz: Automatic generation of infographics from proportion-related natural language statements,√,√,,,,,,,,,,,,Infographics,200,,X,√,,,,,√,,,,√,,,,,,,,√,,,,
-D3 search,Hoque et al. Searching the visual style and structure of d3 visualizations,√,,√,√,,,,√,√,√,√,√,√,No Specific Type,"7,860",,X,√,,,,,,√,,,,,,,,,,,,,,,
-VizNet,Hu et al. Viznet: Towards a large-scale visualization learning and benchmarking repository,√,,,√,,,,,√,√,√,√,√,No Specific Type,,"~31,000,000",X,√,,,,√,,√,,,,√,,,,,,√,,,,√,https://github.com/mitmedialab/viznet
-Timeline,Chen et al. Towards automated infographic design: Deep learning-based auto-extraction of extensible timeline,√,,,,,,,,,,,,,Timeline,"4,689",,X,√,,,√,,√,,,√,√,,,√,,√,,,√,,,,https://github.com/chenzhutian/auto-infog-timeline
-VizML,Hu et al. VizML: A machine learning approach to visualization recommen- dation,√,,,√,√,,,,√,√,√,√,√,No Specific Type,"~1,000,000",,X,√,,,,,,√,,,√,,,,,√,,,√,,,,https://github.com/mitmedialab/vizml
-Data2Vis,Dibia et al. Data2vis: Automatic generation of data visualizations using sequence- to-sequence recurrent neural networks,√,,,√,√,,,,√,√,√,√,√,Circular Chart,"~4,300",,X,,,,√,,,√,,,,,√,,,√,,,√,,,,https://github.com/victordibia/data2vis
-Sherlock,Hulsebos et al. Sherlock: A deep learning approach to semantic data type detection,,,,√,,,,,,,,,,,,"686, 675 columns",X,,,,,√,,√,√,,,,,,,,,,,,,,https://github.com/mitmedialab/sherlock-project
-InSituNet,InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations,,,,√,,,,,,,,,,Rendering,"125,000",,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
-DNN-VolVIs,,,,,√,,,,,,,,,,Rendering,10000,,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
-AutoCaption,Liu et al. Autocaption: An approach to generate natural language description from visualization automatically,√,√,,√,,,,,√,√,√,,,,"3,000",,X,,,,√,,,√,,,,,√,,,,,√,√,,,,
-Auto annotation,Lai et al. Automatic annotation synchronizing with textual description for visualization,√,,,,,√,,,√,√,,,√,,~400,,X,√,,,,,√,,,√,√,,,√,,,√,√,√,,,,
-MultiViewLayout,Chen et al. Composition and configuration patterns in multiple-view visualizations,√,,,,,,,√,,,,,,,360,,X,,√,,,,√,,,,,,,,,,,,,,,,https://valt.cs.tufts.edu/papers/multiple-view/mv_data.zip
-VisImages,"Deng et al. VisImages: A large-scale, high-quality image corpus in visualization publications",√,,,,,,,,√,√,√,√,√,No Specific Type,"12,267",,X,,√,,,,√,,,√,√,,,√,,,√,,,√,,,https://github.com/VisImages/data
-InfoVIF,Lu et al. Exploring visual information flows in infographics,√,,,√,,√,√,Data Flow,,,,,,Infographics,"~13,000",,X,√,,,,,√,,√,√,√,,,√,,,√,,,,√,,
-Retrie-then-adapt,Qian et al. Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics,√,,,,,√,√,,,,,,,Infographics,"1,000",,X,√,,,,,√,,,√,√,,,√,,√,√,,√,,,,
-InteractiveArticles,Hohman et al. Communicating with interactive articles,√,,,,,,,Interaction,,,,,,No Specific Type,~60,,X,,,√,,,√,,,,,,,,,,,,,,,,https://distill.pub/2020/communicating-with-interactive-articles/
-Leaf-QA,"Chaudhry et al. Leaf-QA: Locate, encode attend for figure ques- tion answering",√,√,,,,,,QA,√,√,√,,√,box plot,"240,000","2,000,000 QA",X,,,,√,,,√,√,,,,√,,,,,√,√,,,,
-Leaf-QA++,Singh et al. STL-CQA: Structure-based trans- formers with localization and encoding for chart question answering.,√,√,,,,,,QA,√,√,√,,√,box plot,"244,000","2,500,000 QA",X,,,,√,,√,√,,,,,√,,,,,√,√,,,,
-PlotQA,Methani et al. Data interpretation over plots,√,√,,,,,,QA,√,√,√,,,,"224,000","28,000,000 QA",X,,,,√,,√,√,,,,,√,,,,,√,√,,,,https://github.com/NiteshMethani/PlotQA/blob/master/PlotQA_Dataset.md
-Vis-QA,Kim et al. Answering questions about charts and generating visual explanations,√,√,,,,,,QA,√,,√,,,,52,629 QA,X,√,,,,,√,,,,,,,,,,,,,,,,https://github.com/dhkim16/VisQA-release
-FigCAP,Figure Captioning with Relation Maps for Reasoning,√,√,,,,,,,√,,√,,√,,"124,217",,X,,,,√,,,√,,,,,√,,,,,√,√,,,,
-VizCommender,Oppermann et al. VizCommender: Computing Text-Based Similar- ity in Visualization Repositories for Content-Based Recommendations,√,√,,,√,,,,√,√,√,√,√,No specific type,"18,820",,X,√,,,,,,√,,,√,,,,,,,√,,√,,,https://osf.io/wypqj/
-ChartSeer,ChartSeer: Interactive Steering Exploratory Visual Analysis with Machine Intelligence,√,,,√,√,,,,√,√,√,√,,,"9,925",,X,,,,√,√,,,,,,,,,√,,,√,,,√,,https://github.com/jeffjianzhao/ChartSeer
-Calliope,Calliope: Automatic visual data story generation from a spreadsheet,√,,√,,,,,Fact type,√,√,√,√,√,√,230,"4,186 segments",X,,,√,,,√,,,,,,,,,,,,,,,,
-DVAO,Deep Volumetric Ambient Occlusion,,,,√,,,,,,,,,,Rendering,477,,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
-CrisisVis,Zhang et al. Mapping the Landscape of COVID-19 Crisis Visualizations,√,,√,,,,,,√,√,,,,,663,,X,,,√,,,√,,,,,,,,,,,,,,,,https://dl.acm.org/doi/10.1145/3411764.3445381
-ViralVis,Lee et al. Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online,,,,,,,,,√,√,√,√,,No Specific Type,"~41,000",,X,√,,,,,√,,,,,,√,,,,,√,,,√,,https://dl.acm.org/doi/10.1145/3411764.3445211
-VIS30K,Chen et al. VIS30K: A collection of figures and tables from IEEE visualization conference publications,√,,,,,,,Meta,,,,,,No Specific Type,"29,689",,X,,√,,,,√,,,√,√,,,√,,,√,,,√,,,https://ieee-dataport.org/open-access/ieee-vis-figures-and-tables-image-dataset
-ExcelChart400K,ChartOCR: Data Extraction From Charts Images via a Deep Hybrid Framework,√,,√,√,,,,,√,,√,,√,,"386,966",,X,√,,,,,,,√,,,,,√,,,√,,,√,,,
-Visually29K,Madan et al. Parsing and Summarizing Infographics with Synthetically Trained Icon Detection,√,,,,,√,√,,,,,,,Infographics,"~29,000",,X,√,,,,,√,,,√,√,,,√,,,√,,,√,√,,https://github.com/diviz-mit/visuallydata
-AutoClips,Shi et al. AutoClips: An Automatic Approach to Video Generation from Data Facts,√,,,√,,,,Clip Type,,,,,,No Specific Type,~230,,X,√,,,,,√,,,,,,,,,,,,,,,,https://autoclips.idvxlab.com/#/
-Motion,Shi et al. Communicating with Motion: A Design Space for Animated Visual Narratives in Data Videos,,,,,,,,,,,,,,No specific type,82,,X,√,,,,,√,,,,,,,,,,,,,,,,https://videoexplorer.idvxlab.com/
-Kineticharts,Lan et al. Kineticharts: Augmenting Affective Expressiveness of Charts in Data Stories with Animation Design,,,,√,,,,Emotion,,,,,,No Specific Type,259,,X,√,,,,,√,,,,,,,,,,,,,,,,http://kineticharts.idvxlab.com/#
-Data-GIF,Shu et al. What makes a Data-GIF understandable?,√,,,,,,,Animation,,,,,,No Specific Type,108,,X,√,,,,,√,,,,,,,,,,,,,,,,https://data-gifs.github.io/
-NLV Corpus,Srinivasan et al. Collecting and characterizing natural language utterances for specifying data visualizations,√,√,,,,,,,,,,,,No specific type,,893 Sentences,X,,,,√,,√,,,,√,,,,,,,√,√,,,,https://nlvcorpus.github.io/
-NL2VIS,Luo et al. Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks,√,√,,,,,,QA,,,,,,No specific type,"25,750","25,750",X,,,,,√,√,√,,,,,√,,,√,,,√,,,,https://github.com/TsinghuaDatabaseGroup/nvBench
-SCICAP,SciCap: Generating Captions for Scientific Figures,√,√,√,,,,,,,,√,,,,"358,972","358,972",X,√,√,,,,,,√,,,,√,√,,,,√,√,,,,
-Table2Charts,Zhou et al. Table2charts: Recommending charts by learning shared representations,√,√,,√,√,,,,,,,,,No specific type,"266,000","165,000 D",X,,,√,,,,√,,,√,,,,,√,,,√,,,,
-STNet,STNet: An End-to-End Generative Framework for Synthesizing Spatiotemporal Super-Resolution Volumes,,,,√,,,,,,,,,,Rendering,650,650,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
-ChartQA,Masry et al. Chartqa: A benchmark for question answering about charts with visual and logical reasoning,√,√,,,,,,QA,,,,,,No specific type,,"9,600 Q, 23, 100 A",X,√,,,,,√,,√,,,,√,,,,,√,√,,,,https://github.com/vis-nlp/ChartQA
-MultiVision,Wu et al. MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation.,√,,,,,,,,√,√,√,,,No specific type,,"3,920,941 QA",X,,,,,√,,,,,√,,,,,√,,,√,,,,https://github.com/microsoft/Table2Charts
-GoTreeScape,Li and Yuan. GoTreeScape: Navigate and Explore the Tree Visualization Design Space,√,,,√,√,,,,,,,,,Tree,"62,340","62,340",X,,,,√,,,,,,,,,,√,,,√,,,√,,
-Pictorial,Supporting Expressive and Faithful Pictorial Visualization Design with Visual Style Transfer,,,,,,,,,√,,√,√,√,Pictorial,"1,371","1,371",X,√,,,,√,√,,,,,,,,,,,,,,,,https://idvxlab.com/vistylist/
-CoordNet,CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network,,,,√,,,,,,,,,,Rendering,32000,32000,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
+name,paper,year,size,VIS,NL,VIS Type,Data,Mapping,Visual Element,Element Position,Others,Bar,Scatter,Line,Area,Pie,Others,#Visualizations,#Others,Still Growing (Yes/No/Not Mentioned),Crawling,Extraction,Crowdsourcing,Synthesizing,Combining,Manual,Rule-based,Learning-based,Object Detection,Classification,Regression,Translation,OCR,Dimensionality Reduction,Visualization Recommendation,Reverse Engineering,Feature Extraction,Generation,Retrieval,Exploration,Assessment,url
+SNAP,Leskovec et al. SNAP Datasets: Stanford Large Network Dataset Collection,2014,150,,,,√,,,,,,,,,,,~150,,X,√,,,,,,,,,,,,,,,,,,,,,https://snap.stanford.edu/data/
+Revision,"Savva et al. Revision: Automated classification, analysis and redesign of chart images",2011,"2,500",√,,√,,,,,,√,√,√,√,√,"Map, etc.","~2,500",,X,√,,,,,√,,,,,,√,,,,,√,,,√,,http://vis.stanford.edu/papers/revision
+MASSVIS,Borkin et al. What makes a visualization memorable?,2013,"5,693",√,,√,,,,,√,√,√,√,√,√,"Circular Chart,etc.","5,693",,X,√,,,,,√,,,,,,,,,,,,,,,,http://massvis.mit.edu/
+DiagramFlyer,Chen et al. Diagramflyer: A search engine for data-driven diagrams,2015,"300,000",√,,,,,,,√,√,√,√,,,,"~300,000",,X,,√,,,,,,√,√,√,,,√,,,√,,,√,,,http://web.eecs.umich.edu/~michjc/structuredweb/datasets/diagram_url.txt.gz
+Aesthetics,Harrison et al. Infographic aesthetics: Designing for the first impression,2015,330,√,,,,,,,,,,,,,Infographics,~330,,X,√,,,,,√,,,,,,,,,,,,,,,,https://github.com/TuftsVALT/infographic-aesthetics
+WikiTable,https://github.com/ppasupat/WikiTableQuestions,2015,"24,141",,√,,√,,,,,,,,,,,,"2,108 D, 22,033 QA",X,√,,,,,√,,,,,,,,,,,,,,,,https://github.com/ppasupat/WikiTableQuestions
+Network Repository,Rossi et al. An Interactive Data Repository with Visual Analytics,2016,"5,000",√,,,√,,,,,,,,,,Graph,"~5,000",,√,,,,,√,,√,,,,,,,,,,,,,,,https://networkrepository.com/
+FigureSeer,Siegel et al. Figureseer: Parsing result-figures in research papers,2016,"60,000",√,√,,√,,√,,,√,√,√,,,"Flowcharts, etc.","~60,000",,X,,√,,,,√,,,√,√,,,√,,,√,,,√,,,https://github.com/allenai/figureseer
+Reverse engineering,Poco et al. Reverse-engineering visualizations: Recovering visual encodings from chart images,2017,"5,125",√,,√,,√,,,√,√,√,√,√,,,"5,125",,X,√,,,√,,,,√,√,√,,,√,,,√,,,,√,,https://github.com/uwdata/rev
+ChartSense,ChartSense: Interactive Data Extraction from Chart Images,2017,"6,997",√,,√,,,,,,√,√,√,√,√,"Map, etc.","6,997",,X,√,,,,,√,√,,,√,,,,,,,√,,√,,,
+DataClips,Amini et al. Authoring data-driven videos with dataclips,2017,70,√,,√,√,,,,Clip Type,√,√,,√,√,"Circular Chart, etc.",~70,,X,√,,,,,√,,,,,,,,,,,,,,,,
+BubbleView,Kim et al. BubbleView: an interface for crowdsourcing image importance maps and tracking visual attention,2017,393,,,,,,,,Eyetracking,√,,√,,,"Map, etc.",393,,X,,,,,√,√,,,,,,,,,,,,,,,,http://massvis.mit.edu/
+FigureQA,Kahou et al. Figureqa: An annotated figure dataset for visual reasoning,2017,"1,000,000",√,√,,,,,,QA,√,√,√,,,,"100,000","1,000,000 QA",X,,,,√,,,√,,,,,√,,,,,√,√,,,,https://datasets.maluuba.com/FigureQA
+Sightline,Sechler et al. Sightline: Building on the web’s visualization ecosys- tem,2017,"1,300",√,,,,,,,,√,√,√,√,√,No specific type,"1,300",,X,,,√,,,√,,,,,,,,,,,,,,,,https://sightlinevis.com/
+Beagle,Battle et al. Beagle: Automated extraction and interpretation of visualizations from the web,2018,"41,000",√,,√,,,,,,√,√,√,√,√,√,"~41,000",,X,√,,,,,,,√,,,,√,,,,,√,,,√,,https://homes.cs.washington.edu/~leibatt/beagle.html
+ScatterNet,Ma et al. Scatternet: A deep subjective similarity model for visual analysis of scatterplots,2018,"50,677",√,,,,,√,,,,√,,,,,"50,677",,X,,,,√,,√,,,,√,,,,,,,√,,√,,,
+DeepEye,Luo et al. Deepeye: Towards automatic data visualization,2018,"33,400",√,,,,,,,Rank,√,√,√,√,√,No Specific Type,"~33,400",,X,,,,√,,√,,,,√,,,,,√,,,√,,,,https://deepeye.tech/
+DVQA,Kafle et al. DVQA: Understanding data visualizations via question answering,2018,"3,400,000",√,√,,,,,,QA,√,,,,,,"300,000","3,400,000 QA",X,,,,√,,,√,,,,,√,,,,,√,√,,,,https://github.com/kushalkafle/DVQA_dataset
+VizByWiki,Lin et al. Vizbywiki: Mining data visualizations from the web to enrich news articles,2018,"3,000,000",√,√,,,,,,,√,√,√,√,√,No specific type,"~3,000,000",,√,√,,,,,,√,√,,√,,,,,,,√,,√,,,https://github.com/vizbywiki/VizByWiki
+GMVR,A Generative Model for Volume Rendering,2018,200000,,,,√,,,,,,,,,,Rendering,200000,,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
+GraphicalPerception,Evaluating 'Graphical Perception' with CNNs,2018,"100,000",√,,,,,,,,√,,,,√,,"100,000",,X,,,,√,,,,√,,,√,,,,,,√,,,,√,https://github.com/Rhoana/perception
+Text-to-Viz,Cui et al. Text-to-viz: Automatic generation of infographics from proportion-related natural language statements,2019,200,√,√,,,,,,,,,,,,Infographics,200,,X,√,,,,,√,,,,√,,,,,,,,√,,,,
+D3 search,Hoque et al. Searching the visual style and structure of d3 visualizations,2019,"7,860",√,,√,√,,,,√,√,√,√,√,√,No Specific Type,"7,860",,X,√,,,,,,√,,,,,,,,,,,,,,,
+VizNet,Hu et al. Viznet: Towards a large-scale visualization learning and benchmarking repository,2019,"31,000,000",√,,,√,,,,,√,√,√,√,√,No Specific Type,,"~31,000,000",X,√,,,,√,,√,,,,√,,,,,,√,,,,√,https://github.com/mitmedialab/viznet
+Timeline,Chen et al. Towards automated infographic design: Deep learning-based auto-extraction of extensible timeline,2019,"4,689",√,,,,,,,,,,,,,Timeline,"4,689",,X,√,,,√,,√,,,√,√,,,√,,√,,,√,,,,https://github.com/chenzhutian/auto-infog-timeline
+VizML,Hu et al. VizML: A machine learning approach to visualization recommen- dation,2019,"1,000,000",√,,,√,√,,,,√,√,√,√,√,No Specific Type,"~1,000,000",,X,√,,,,,,√,,,√,,,,,√,,,√,,,,https://github.com/mitmedialab/vizml
+Data2Vis,Dibia et al. Data2vis: Automatic generation of data visualizations using sequence- to-sequence recurrent neural networks,2019,"4,300",√,,,√,√,,,,√,√,√,√,√,Circular Chart,"~4,300",,X,,,,√,,,√,,,,,√,,,√,,,√,,,,https://github.com/victordibia/data2vis
+Sherlock,Hulsebos et al. Sherlock: A deep learning approach to semantic data type detection,2019,"686,675",,,,√,,,,,,,,,,,,"686, 675 columns",X,,,,,√,,√,√,,,,,,,,,,,,,,https://github.com/mitmedialab/sherlock-project
+InSituNet,InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations,2019,"125,000",,,,√,,,,,,,,,,Rendering,"125,000",,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
+DNN-VolVIs,,2019,10000,,,,√,,,,,,,,,,Rendering,10000,,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
+AutoCaption,Liu et al. Autocaption: An approach to generate natural language description from visualization automatically,2020,"3,000",√,√,,√,,,,,√,√,√,,,,"3,000",,X,,,,√,,,√,,,,,√,,,,,√,√,,,,
+Auto annotation,Lai et al. Automatic annotation synchronizing with textual description for visualization,2020,400,√,,,,,√,,,√,√,,,√,,~400,,X,√,,,,,√,,,√,√,,,√,,,√,√,√,,,,
+MultiViewLayout,Chen et al. Composition and configuration patterns in multiple-view visualizations,2020,360,√,,,,,,,√,,,,,,,360,,X,,√,,,,√,,,,,,,,,,,,,,,,https://valt.cs.tufts.edu/papers/multiple-view/mv_data.zip
+VisImages,"Deng et al. VisImages: A large-scale, high-quality image corpus in visualization publications",2020,"12,267",√,,,,,,,,√,√,√,√,√,No Specific Type,"12,267",,X,,√,,,,√,,,√,√,,,√,,,√,,,√,,,https://github.com/VisImages/data
+InfoVIF,Lu et al. Exploring visual information flows in infographics,2020,"13,000",√,,,√,,√,√,Data Flow,,,,,,Infographics,"~13,000",,X,√,,,,,√,,√,√,√,,,√,,,√,,,,√,,
+Retrie-then-adapt,Qian et al. Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics,2020,"1,000",√,,,,,√,√,,,,,,,Infographics,"1,000",,X,√,,,,,√,,,√,√,,,√,,√,√,,√,,,,
+InteractiveArticles,Hohman et al. Communicating with interactive articles,2020,60,√,,,,,,,Interaction,,,,,,No Specific Type,~60,,X,,,√,,,√,,,,,,,,,,,,,,,,https://distill.pub/2020/communicating-with-interactive-articles/
+Leaf-QA,"Chaudhry et al. Leaf-QA: Locate, encode attend for figure ques- tion answering",2020,"2,240,000",√,√,,,,,,QA,√,√,√,,√,box plot,"240,000","2,000,000 QA",X,,,,√,,,√,√,,,,√,,,,,√,√,,,,
+Leaf-QA++,Singh et al. STL-CQA: Structure-based trans- formers with localization and encoding for chart question answering.,2020,"2,744,000",√,√,,,,,,QA,√,√,√,,√,box plot,"244,000","2,500,000 QA",X,,,,√,,√,√,,,,,√,,,,,√,√,,,,
+PlotQA,Methani et al. Data interpretation over plots,2020,"3,024,000",√,√,,,,,,QA,√,√,√,,,,"224,000","28,000,000 QA",X,,,,√,,√,√,,,,,√,,,,,√,√,,,,https://github.com/NiteshMethani/PlotQA/blob/master/PlotQA_Dataset.md
+Vis-QA,Kim et al. Answering questions about charts and generating visual explanations,2020,681,√,√,,,,,,QA,√,,√,,,,52,629 QA,X,√,,,,,√,,,,,,,,,,,,,,,,https://github.com/dhkim16/VisQA-release
+FigCAP,Figure Captioning with Relation Maps for Reasoning,2020,"124,217",√,√,,,,,,,√,,√,,√,,"124,217",,X,,,,√,,,√,,,,,√,,,,,√,√,,,,
+VizCommender,Oppermann et al. VizCommender: Computing Text-Based Similar- ity in Visualization Repositories for Content-Based Recommendations,2020,"18,820",√,√,,,√,,,,√,√,√,√,√,No specific type,"18,820",,X,√,,,,,,√,,,√,,,,,,,√,,√,,,https://osf.io/wypqj/
+ChartSeer,ChartSeer: Interactive Steering Exploratory Visual Analysis with Machine Intelligence,2020,"9,925",√,,,√,√,,,,√,√,√,√,,,"9,925",,X,,,,√,√,,,,,,,,,√,,,√,,,√,,https://github.com/jeffjianzhao/ChartSeer
+Calliope,Calliope: Automatic visual data story generation from a spreadsheet,2020,"4,416",√,,√,,,,,Fact type,√,√,√,√,√,√,230,"4,186 segments",X,,,√,,,√,,,,,,,,,,,,,,,,
+DVAO,Deep Volumetric Ambient Occlusion,2020,477,,,,√,,,,,,,,,,Rendering,477,,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
+CrisisVis,Zhang et al. Mapping the Landscape of COVID-19 Crisis Visualizations,2021,663,√,,√,,,,,,√,√,,,,,663,,X,,,√,,,√,,,,,,,,,,,,,,,,https://dl.acm.org/doi/10.1145/3411764.3445381
+ViralVis,Lee et al. Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online,2021,"41,000",,,,,,,,,√,√,√,√,,No Specific Type,"~41,000",,X,√,,,,,√,,,,,,√,,,,,√,,,√,,https://dl.acm.org/doi/10.1145/3411764.3445211
+VIS30K,Chen et al. VIS30K: A collection of figures and tables from IEEE visualization conference publications,2021,"29,689",√,,,,,,,Meta,,,,,,No Specific Type,"29,689",,X,,√,,,,√,,,√,√,,,√,,,√,,,√,,,https://ieee-dataport.org/open-access/ieee-vis-figures-and-tables-image-dataset
+ExcelChart400K,ChartOCR: Data Extraction From Charts Images via a Deep Hybrid Framework,2021,"386,966",√,,√,√,,,,,√,,√,,√,,"386,966",,X,√,,,,,,,√,,,,,√,,,√,,,√,,,
+Visually29K,Madan et al. Parsing and Summarizing Infographics with Synthetically Trained Icon Detection,2021,"29,000",√,,,,,√,√,,,,,,,Infographics,"~29,000",,X,√,,,,,√,,,√,√,,,√,,,√,,,√,√,,https://github.com/diviz-mit/visuallydata
+AutoClips,Shi et al. AutoClips: An Automatic Approach to Video Generation from Data Facts,2021,230,√,,,√,,,,Clip Type,,,,,,No Specific Type,~230,,X,√,,,,,√,,,,,,,,,,,,,,,,https://autoclips.idvxlab.com/#/
+Motion,Shi et al. Communicating with Motion: A Design Space for Animated Visual Narratives in Data Videos,2021,82,,,,,,,,,,,,,,No specific type,82,,X,√,,,,,√,,,,,,,,,,,,,,,,https://videoexplorer.idvxlab.com/
+Kineticharts,Lan et al. Kineticharts: Augmenting Affective Expressiveness of Charts in Data Stories with Animation Design,2021,259,,,,√,,,,Emotion,,,,,,No Specific Type,259,,X,√,,,,,√,,,,,,,,,,,,,,,,http://kineticharts.idvxlab.com/#
+Data-GIF,Shu et al. What makes a Data-GIF understandable?,2021,108,√,,,,,,,Animation,,,,,,No Specific Type,108,,X,√,,,,,√,,,,,,,,,,,,,,,,https://data-gifs.github.io/
+NLV Corpus,Srinivasan et al. Collecting and characterizing natural language utterances for specifying data visualizations,2021,893,√,√,,,,,,,,,,,,No specific type,,893 Sentences,X,,,,√,,√,,,,√,,,,,,,√,√,,,,https://nlvcorpus.github.io/
+NL2VIS,Luo et al. Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks,2021,"25,750",√,√,,,,,,QA,,,,,,No specific type,"25,750","25,750",X,,,,,√,√,√,,,,,√,,,√,,,√,,,,https://github.com/TsinghuaDatabaseGroup/nvBench
+SCICAP,SciCap: Generating Captions for Scientific Figures,2021,"358,972",√,√,√,,,,,,,,√,,,,"358,972","358,972",X,√,√,,,,,,√,,,,√,√,,,,√,√,,,,
+Table2Charts,Zhou et al. Table2charts: Recommending charts by learning shared representations,2021,"431,000",√,√,,√,√,,,,,,,,,No specific type,"266,000","165,000 D",X,,,√,,,,√,,,√,,,,,√,,,√,,,,
+STNet,STNet: An End-to-End Generative Framework for Synthesizing Spatiotemporal Super-Resolution Volumes,2021,650,,,,√,,,,,,,,,,Rendering,650,650,X,,,,√,,,√,,,,√,,,,,,√,√,,,,
+ChartQA,Masry et al. Chartqa: A benchmark for question answering about charts with visual and logical reasoning,2022,"32,700",√,√,,,,,,QA,,,,,,No specific type,,"9,600 Q, 23, 100 A",X,√,,,,,√,,√,,,,√,,,,,√,√,,,,https://github.com/vis-nlp/ChartQA
+MultiVision,Wu et al. MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation.,2022,"3,920,941",√,,,,,,,,√,√,√,,,No specific type,,"3,920,941 QA",X,,,,,√,,,,,√,,,,,√,,,√,,,,https://github.com/microsoft/Table2Charts
+GoTreeScape,Li and Yuan. GoTreeScape: Navigate and Explore the Tree Visualization Design Space,2022,"62,340",√,,,√,√,,,,,,,,,Tree,"62,340","62,340",X,,,,√,,,,,,,,,,√,,,√,,,√,,
+Pictorial,Supporting Expressive and Faithful Pictorial Visualization Design with Visual Style Transfer,2022,"1,371",,,,,,,,,√,,√,√,√,Pictorial,"1,371","1,371",X,√,,,,√,√,,,,,,,,,,,,,,,,https://idvxlab.com/vistylist/
+CoordNet,CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network,2022,32000,,,,√,,,,,,,,,,Rendering,32000,32000,X,,,,√,,,√,,,,√,,,,,,√,√,,,,

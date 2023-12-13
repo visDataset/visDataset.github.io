@@ -1,0 +1,2349 @@
+[
+    {
+        "idx": "SNAP",
+        "title": "SNAP Datasets: Stanford Large Network Dataset Collection",
+        "year": "2014",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 150,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://snap.stanford.edu/data/",
+        "authors": ["Jure Leskovec", "Andrej Krevl"],
+        "journal": "Physical Review Letters",
+        "venue": "",
+        "venueField": "",
+        "doi": ""
+    },
+    {
+        "idx": "Revision",
+        "title": "Revision: Automated classification, analysis and redesign of chart images",
+        "year": "2011",
+        "dataTypes": [
+            "VIS",
+            "VIS Type"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 2500,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "http://vis.stanford.edu/papers/revision",
+        "authors": ["Manolis Sawva", "Nicholas Kong", "Arti Chhajta", "Fei Fei Li", "Maneesh Agrawala", "Jeffrey Heer"],
+        "journal": "In Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/2047196.2047247"
+    },
+    {
+        "idx": "MASSVIS",
+        "title": "What makes a visualization memorable?",
+        "year": "2013",
+        "dataTypes": [
+            "VIS",
+            "VIS Type"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 5693,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "http://massvis.mit.edu/",
+        "authors": ["Michelle A. Borkin", "Azalea A. Vo", "Zoya Bylinskii", "Phillip lsola", "Shashank Sunkavalli","Aude Oliva", "Hanspeter Pfster"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2013.234"
+    },
+    {
+        "idx": "DiagramFlyer",
+        "title": "Diagramflyer: A search engine for data-driven diagrams",
+        "year": "2015",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Extraction"
+        ],
+        "dataExtension": [
+            "Learning-based"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 300000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "http://web.eecs.umich.edu/~michjc/structuredweb/datasets/diagram_url.txt.gz",
+        "authors": ["Zhe Chen", "Michael Cafarella", "Eytan Adar"],
+        "journal": "Proceedings of the 24th International Conference on World Wide Web",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/2740908.2742831"
+    },
+    {
+        "idx": "Aesthetics",
+        "title": "Infographic aesthetics: Designing for the first impression",
+        "year": "2015",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 330,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/TuftsVALT/infographic-aesthetics",
+        "authors": ["Lane Harrison", "Katharina Reinecke", "Remco Chang"],
+        "journal": "In Proceedings of Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/2702123.2702545"
+    },
+    {
+        "idx": "WikiTable",
+        "title": "Compositional Semantic Parsing on Semi-Structured Tables",
+        "year": "2015",
+        "dataTypes": [
+            "NL",
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 24141,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/ppasupat/WikiTableQuestions",
+        "authors": ["Panupong Pasupat","Percy Liang"],
+        "journal": "Association for Computational Linguistics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.3115/v1/P15-1142"
+    },
+    {
+        "idx": "Network Repository",
+        "title": "An Interactive Data Repository with Visual Analytics",
+        "year": "2016",
+        "dataTypes": [
+            "VIS",
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Combining"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 5000,
+        "stillGrow": [
+            "Yes"
+        ],
+        "url": "https://networkrepository.com/",
+        "authors": ["Ryan A. Rossi", "Nesreen K. Ahmed"],
+        "journal": "ACM SIGKDD Explorations Newsletter",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/2897350.2897355"
+    },
+    {
+        "idx": "FigureSeer",
+        "title": "Figureseer: Parsing result-figures in research papers",
+        "year": "2016",
+        "dataTypes": [
+            "VIS",
+            "NL",
+            "Data",
+            "Visual Element"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Extraction"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 60000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/allenai/figureseer",
+        "authors": ["Noah Siegel", "Zachary Horvitz", "Roie Levin", "Santosh Divvala", "Ali Farhadi"],
+        "journal": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1007/978-3-319-46478-7_41"
+    },
+    {
+        "idx": "Reverse engineering",
+        "title": "Reverse-engineering visualizations: Recovering visual encodings from chart images",
+        "year": "2017",
+        "dataTypes": [
+            "VIS",
+            "VIS Type",
+            "Mapping"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area"
+        ],
+        "rawDataConstruction": [
+            "Crawling",
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Learning-based"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 5125,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/uwdata/rev",
+        "authors": ["Jorge Poco", "Jeffrey Heer"],
+        "journal": "Computer Graphics Forum",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1111/cgf.13193"
+    },
+    {
+        "idx": "ChartSense",
+        "title": "ChartSense: Interactive Data Extraction from Chart Images",
+        "year": "2017",
+        "dataTypes": [
+            "VIS",
+            "VIS Type"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual",
+            "Rule-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 6997,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Daekyoung Jung", "Wonjae Kim", "Hyunjoo Song", "Jeong In Hwang", "Bongshin Lee", "Bohyoung Kim", "Jinwook Seo"],
+        "journal": "In Proceedings of Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3025453.3025957"
+    },
+    {
+        "idx": "DataClips",
+        "title": "Authoring data-driven videos with dataclips",
+        "year": "2017",
+        "dataTypes": [
+            "VIS",
+            "VIS Type",
+            "Data"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 70,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Fereshteh Amini", "Nathalie Henry Riche", "Bongshin Lee", "Andres Monroy-Hernandez","Pourang lrani"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2016.2598647"
+    },
+    {
+        "idx": "BubbleView",
+        "title": "BubbleView: an interface for crowdsourcing image importance maps and tracking visual attention",
+        "year": "2017",
+        "dataTypes": [],
+        "visTypes": [
+            "Bar",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Combining"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 393,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "http://massvis.mit.edu/",
+        "authors": ["Nam Wook Kim", "Zoya Bylinskii", "Michelle A. Borkin", "Krzysztof Z. Gajos", "Aude Oliva","Fredo Durand", "Hanspeter Pfister"],
+        "journal": "ACM Transactions on Computer-Human Interaction",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3131275"
+    },
+    {
+        "idx": "FigureQA",
+        "title": "Figureqa: An annotated figure dataset for visual reasoning",
+        "year": "2017",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 1000000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://datasets.maluuba.com/FigureQA",
+        "authors": ["Samira Ebrahimi Kahou", "Vincent Michalski", "Adam Atkinson", "Akos Kadar","Adam Trischler", "Yoshua Bengio"],
+        "journal": "International Conference on Learning Representations",
+        "venue": "",
+        "venueField": "",
+        "doi": ""
+    },
+    {
+        "idx": "Sightline",
+        "title": "Sightline: Building on the web’s visualization ecosystem",
+        "year": "2017",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crowdsourcing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 1300,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://sightlinevis.com/",
+        "authors": ["Jordan Sechler", "Lane Harrison", "Evan M. Peck"],
+        "journal": "In Proceedings of Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3027063.3053142"
+    },
+    {
+        "idx": "Beagle",
+        "title": "Beagle: Automated extraction and interpretation of visualizations from the web",
+        "year": "2018",
+        "dataTypes": [
+            "VIS",
+            "VIS Type",
+            "Others"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie",
+            "Others"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Learning-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 41000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://homes.cs.washington.edu/~leibatt/beagle.html",
+        "authors": ["Leilani Battle", "Peitong Duan", "Zachery Miranda", "Dana Mukusheva", "Remco Chang","Michael Stonebraker"],
+        "journal": "In Proceedings of Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3173574.3174168"
+    },
+    {
+        "idx": "ScatterNet",
+        "title": "Scatternet: A deep subjective similarity model for visual analysis of scatterplots",
+        "year": "2018",
+        "dataTypes": [
+            "VIS",
+            "Visual Element"
+        ],
+        "visTypes": [
+            "Scatter"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 50677,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Yuxin Ma", "Anthony K.H. Tung", "Wei Wang", "Xiang Gao", "Zhigeng Pan", "Wei Chen"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2018.2875702"
+    },
+    {
+        "idx": "DeepEye",
+        "title": "Deepeye: Towards automatic data visualization",
+        "year": "2018",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 33400,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://deepeye.tech/",
+        "authors": ["Yuyu Luo", "Xuedi Qin", "Nan Tang", "Guoliang Li"],
+        "journal": "In Proceedings of IEEE 34th International Conference on Data Engineering",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/ICDE.2018.00019"
+    },
+    {
+        "idx": "DVQA",
+        "title": "DVQA: Understanding data visualizations via question answering",
+        "year": "2018",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 3400000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/kushalkafle/DVQA_dataset",
+        "authors": ["Kushal Kafle", "Brian Price", "Scott Cohen", "Christopher Kanan"],
+        "journal": "In Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/CVPR.2018.00592"
+    },
+    {
+        "idx": "VizByWiki",
+        "title": "Vizbywiki: Mining data visualizations from the web to enrich news articles",
+        "year": "2018",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Rule-based",
+            "Learning-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 3000000,
+        "stillGrow": [
+            "Yes"
+        ],
+        "url": "https://github.com/vizbywiki/VizByWiki",
+        "authors": ["Allen Yilun Lin", "Joshua Ford", "Eytan Adar", "Brent Hecht"],
+        "journal": "In Proceedings of the World Wide Web Conference",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3178876.3186135"
+    },
+    {
+        "idx": "GMVR",
+        "title": "A Generative Model for Volume Rendering",
+        "year": "2018",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 200000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Matthew Berger", "Jixian Li", "Joshua A. Levine"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2018.2816059"
+    },
+    {
+        "idx": "GraphicalPerception",
+        "title": "Evaluating 'Graphical Perception' with CNNs",
+        "year": "2018",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [
+            "Bar",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Learning-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Assessment"
+        ],
+        "size": 100000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/Rhoana/perception",
+        "authors": ["Daniel Haehn","James Tompkin", "Hanspeter Pfister"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2018.2865138"
+    },
+    {
+        "idx": "Text-to-Viz",
+        "title": "Text-to-viz: Automatic generation of infographics from proportion-related natural language statements",
+        "year": "2019",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [],
+        "applications": [
+            "Generation"
+        ],
+        "size": 200,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Weiwei Cui", "Xiaoyu Zhang", "Yun Wang", "He Huang", "Bei Chen", "Lei Fang","Haidong Zhang","Jian Guan Lou", "Dongmei Zhang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2019.2934785"
+    },
+    {
+        "idx": "D3 search",
+        "title": "Searching the visual style and structure of d3 visualizations",
+        "year": "2019",
+        "dataTypes": [
+            "VIS",
+            "VIS Type",
+            "Data"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 7860,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Enamul Hoque","Maneesh Agrawala"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2019.2934431"
+    },
+    {
+        "idx": "VizNet",
+        "title": "Viznet: Towards a large-scale visualization learning and benchmarking repository",
+        "year": "2019",
+        "dataTypes": [
+            "VIS",
+            "Data"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling",
+            "Combining"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Assessment"
+        ],
+        "size": 31000000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/mitmedialab/viznet",
+        "authors": ["Kevin Hu", "Snehalkumar S. Gaikwad", "Madelon Hulsebos", "Michiel A. Bakker","Emanuel Zgraggen", "Cesar Hidalgo", "Tim Kraska", "Guoliang Li", "Arvind Satyanarayan","Cagatay Demiralp"],
+        "journal": "In Proceedings of Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3290605.3300892"
+    },
+    {
+        "idx": "Timeline",
+        "title": "Towards automated infographic design: Deep learning-based auto-extraction of extensible timeline",
+        "year": "2019",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling",
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 4689,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/chenzhutian/auto-infog-timeline",
+        "authors": ["Zhutian Chen", "Yun Wang", "Qianwen Wang", "Yong Wang", "Huamin Qu"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2019.2934810"
+    },
+    {
+        "idx": "VizML",
+        "title": "VizML: A machine learning approach to visualization recommendation",
+        "year": "2019",
+        "dataTypes": [
+            "VIS",
+            "Data",
+            "Mapping"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 1000000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/mitmedialab/vizml",
+        "authors": ["Kevin Z. Hu", "Michiel A. Bakker", "Stephen Li", "Tim Kraska", "César A. Hidalgo"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3290605.3300358"
+    },
+    {
+        "idx": "Data2Vis",
+        "title": "Data2vis: Automatic generation of data visualizations using sequence-to-sequence recurrent neural networks",
+        "year": "2019",
+        "dataTypes": [
+            "VIS",
+            "Data",
+            "Mapping"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 4300,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/victordibia/data2vis",
+        "authors": ["Victor Dibia", "Çaǧatay Demiralp"],
+        "journal": "IEEE Computer Graphics and Applications",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/MCG.2019.2924636"
+    },
+    {
+        "idx": "Sherlock",
+        "title": "Sherlock: A deep learning approach to semantic data type detection",
+        "year": "2019",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Combining"
+        ],
+        "dataExtension": [
+            "Rule-based",
+            "Learning-based"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 686675,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/mitmedialab/sherlock-project",
+        "authors": ["Madelon Hulsebos", "Arvind Satyanarayan","Kevin Hu", "Tim Kraska", "Michiel Bakker","Cagatay Demiralp", "Emanuel Zgraggen","Cesar Hidalgo"],
+        "journal": "Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3292500.3330993"
+    },
+    {
+        "idx": "InSituNet",
+        "title": "InSituNet: Deep Image Synthesis for Parameter Space Exploration of Ensemble Simulations",
+        "year": "2019",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 125000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Wenbin He", "Junpeng Wang", "Hanqi Guo", "Ko Chih Wang", "Han Wei Shen", "Mukund Raj", "Youssef s.G. Nashed", "Tom Peterka"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2019.2934312"
+    },
+    {
+        "idx": "DNN-VolVIs",
+        "title": "DNN-VolVis: Interactive volume visualization supported by deep neural network",
+        "year": "2019",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 10000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Fan Hong", "Can Liu", "Xiaoru Yuan"],
+        "journal": "IEEE Pacific Visualization Symposium",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/PacificVis.2019.00041"
+    },
+    {
+        "idx": "AutoCaption",
+        "title": "Autocaption: An approach to generate natural language description from visualization automatically",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL",
+            "Data"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 3000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Can Liu", "Liwenhan Xie", "Yun Han", "Atong Wei", "Xiaoru Yuan"],
+        "journal": "IEEE Pacific Visualization Symposium",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/PacificVis48177.2020.1043"
+    },
+    {
+        "idx": "Auto annotation",
+        "title": "Automatic annotation synchronizing with textual description for visualization",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "Visual Element"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering",
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 400,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Chufan Lai", "Zhixian Lin", "Ruike Jiang", "Yun Han", "Can Liu","Xiaoru Yuan"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3313831.3376443"
+    },
+    {
+        "idx": "MultiViewLayout",
+        "title": "Composition and configuration patterns in multiple-view visualizations",
+        "year": "2020",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Extraction"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 360,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://valt.cs.tufts.edu/papers/multiple-view/mv_data.zip",
+        "authors": ["Xi Chen", "Wei Zeng", "Yanna Lin","Hayder Mahdi Ai-Maneea", "Jonathan Roberts", "Remco Chang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2020.3030338"
+    },
+    {
+        "idx": "VisImages",
+        "title": "VisImages: A large-scale, high-quality image corpus in visualization publications",
+        "year": "2020",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Extraction"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 12267,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/VisImages/data",
+        "authors": ["Dazhen Deng", "Yihong Wu", "Xinhuan Shu", "Mengye Xu","Jiang Wu", "Siwei Fu", "Yingcai Wu"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2022.3155440"
+    },
+    {
+        "idx": "InfoVIF",
+        "title": "Exploring visual information flows in infographics",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "Data",
+            "Visual Element",
+            "Element Position"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual",
+            "Learning-based"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 13000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Min Lu", "Chufeng Wang", "Joel Lanir", "Nanxuan Zhao","Hanspeter Pfster", "Daniel Cohen-Or", "Hui Huang"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3313831.3376263"
+    },
+    {
+        "idx": "Retrie-then-adapt",
+        "title": "Retrieve-Then-Adapt: Example-based Automatic Generation for Proportion-related Infographics",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "Visual Element",
+            "Element Position"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Visualization Recommendation",
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 1000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Chunyao Qian", "Shizhao Sun", "Weiwei Cui","jian-Guang Lou", "Haidong Zhang", "Dongmei Zhang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2020.3030448"
+    },
+    {
+        "idx": "InteractiveArticles",
+        "title": "Communicating with interactive articles",
+        "year": "2020",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crowdsourcing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 60,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://distill.pub/2020/communicating-with-interactive-articles/",
+        "authors": ["Fred Hohman", "Matthew Conlen", "Jeffrey Heer","Duen Chau"],
+        "journal": "Distill",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.23915/distill.00028"
+    },
+    {
+        "idx": "Leaf-QA",
+        "title": "Leaf-QA: Locate, encode attend for figure question answering",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based",
+            "Learning-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 2240000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Ritwick Chaudhry", "Sumit Shekhar", "Utkarsh Gupta", "Pranav Maneriker", "Prann Bansal", "Ajay Joshi"],
+        "journal": "Proceedings - 2020 IEEE Winter Conference on Applications of Computer Vision",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/WACV45572.2020.9093269"
+    },
+    {
+        "idx": "Leaf-QA++",
+        "title": "STL-CQA: Structure-based transformers with localization and encoding for chart question answering.",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual",
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 2744000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Hrituraj Singh", "Sumit Shekhar"],
+        "journal": "2020 Conference on Empirical Methods in Natural Language Processing",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.18653/v1/2020.emnlp-main.264"
+    },
+    {
+        "idx": "PlotQA",
+        "title": "Data interpretation over plots",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual",
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 3024000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/NiteshMethani/PlotQA/blob/master/PlotQA_Dataset.md",
+        "authors": ["Nitesh Methani", "Pritha Ganguly", "Mitesh M. Khapra", "Pratyush Kumar"],
+        "journal": "arXiv",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.48550/arXiv.1909.00997"
+    },
+    {
+        "idx": "Vis-QA",
+        "title": "Answering questions about charts and generating visual explanations",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 681,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/dhkim16/VisQA-release",
+        "authors": ["Dae Hyun Kim","Enamul Hoque", "Maneesh Agrawala"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3313831.3376467"
+    },
+    {
+        "idx": "FigCAP",
+        "title": "Figure Captioning with Relation Maps for Reasoning",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [
+            "Bar",
+            "Line",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 124217,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Charles Chen", "Ruiyi Zhang", "Eunyee Koh", "Sungchul Kim","Scott Cohen", "Ryan Rossi"],
+        "journal": "Proceedings - 2020 IEEE Winter Conference on Applications of Computer Vision",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/WACV45572.2020.9093592"
+    },
+    {
+        "idx": "VizCommender",
+        "title": "VizCommender: Computing Text-Based Similar- ity in Visualization Repositories for Content-Based Recommendations",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "NL",
+            "Mapping"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 18820,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://osf.io/wypqj/",
+        "authors": ["Dae Hyun Kim", "Enamul Hoque", "Maneesh Agrawala"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3313831.3376467"
+    },
+    {
+        "idx": "ChartSeer",
+        "title": "ChartSeer: Interactive Steering Exploratory Visual Analysis with Machine Intelligence",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "Data",
+            "Mapping"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area"
+        ],
+        "rawDataConstruction": [
+            "Synthesizing",
+            "Combining"
+        ],
+        "dataExtension": [],
+        "techniques": [
+            "Dimensionality Reduction"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 9925,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/jeffjianzhao/ChartSeer",
+        "authors": ["Jian Zhao", "Mingming Fan", "Mi Feng"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2020.3018724"
+    },
+    {
+        "idx": "Calliope",
+        "title": "Calliope: Automatic visual data story generation from a spreadsheet",
+        "year": "2020",
+        "dataTypes": [
+            "VIS",
+            "VIS Type",
+            "Others"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area",
+            "Pie",
+            "Others"
+        ],
+        "rawDataConstruction": [
+            "Crowdsourcing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 4416,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Danqing Shi", "Xinyue Xu", "Fuling Sun", "Yang Shi", "Nan Cao"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2020.3030403"
+    },
+    {
+        "idx": "DVAO",
+        "title": "Deep Volumetric Ambient Occlusion",
+        "year": "2020",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 477,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Dominik Engel", "Timo Ropinski"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2020.3030344"
+    },
+    {
+        "idx": "CrisisVis",
+        "title": "Mapping the Landscape of COVID-19 Crisis Visualizations",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "VIS Type"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter"
+        ],
+        "rawDataConstruction": [
+            "Crowdsourcing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 663,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://dl.acm.org/doi/10.1145/3411764.3445381",
+        "authors": ["Yixuan Zhang", "Yifan Sun", "Lace Padilla"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3411764.3445381"
+    },
+    {
+        "idx": "ViralVis",
+        "title": "Viral Visualizations: How Coronavirus Skeptics Use Orthodox Data Practices to Promote Unorthodox Science Online",
+        "year": "2021",
+        "dataTypes": [],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line",
+            "Area"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 41000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://dl.acm.org/doi/10.1145/3411764.3445211",
+        "authors": ["Crystal Lee", "Tanya Yang", "Gabrielle Inchoco","Graham M. Jones", "Arvind Satyanarayan"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3411764.3445211"
+    },
+    {
+        "idx": "VIS30K",
+        "title": "VIS30K: A collection of figures and tables from IEEE visualization conference publications",
+        "year": "2021",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Extraction"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 29689,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://ieee-dataport.org/open-access/ieee-vis-figures-and-tables-image-dataset",
+        "authors": ["Jian Chen", "Meng Ling", "Rui Li", "Petra lsenberg","Tobias Isenberg", "Michael Sedlmair", "Torsten Moller","Robert S. Laramee", "Han Wei Shen", "Katharina Wunsche","Qiru Wang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2021.3054916"
+    },
+    {
+        "idx": "ExcelChart400K",
+        "title": "ChartOCR: Data Extraction From Charts Images via a Deep Hybrid Framework",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "VIS Type",
+            "Data"
+        ],
+        "visTypes": [
+            "Bar",
+            "Line",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Learning-based"
+        ],
+        "techniques": [
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Retrieval"
+        ],
+        "size": 386966,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Junyu Luo", "Zekun Li", "Jinpeng Wang", "Chin Yew Lin"],
+        "journal": "Proceedings - 2021 IEEE Winter Conference on Applications of Computer Vision",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/WACV48630.2021.00196"
+    },
+    {
+        "idx": "Visually29K",
+        "title": "Parsing and Summarizing Infographics with Synthetically Trained Icon Detection",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "Visual Element",
+            "Element Position"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Object Detection",
+            "Classification",
+            "OCR"
+        ],
+        "tasks": [
+            "Reverse Engineering"
+        ],
+        "applications": [
+            "Retrieval",
+            "Exploration"
+        ],
+        "size": 29000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/diviz-mit/visuallydata",
+        "authors": ["Spandan Madan", "Zoya Bylinskii", "Carolina Nobre,Matthew Tancik", "Adria Recasens", "Kimberli ZhongSami Alsheikh", "Aude Oliva", "Fredo Durand,Hanspeter Pfster"],
+        "journal": "IEEE 14th Pacific Visualization Symposium",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/PacificVis52677.2021.00012"
+    },
+    {
+        "idx": "AutoClips",
+        "title": "AutoClips: An Automatic Approach to Video Generation from Data Facts",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 230,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://autoclips.idvxlab.com/#/",
+        "authors": ["Danqing Shi", "Fuling Sun", "Xinyue Xu", "Xingyu Lan", "David Gotz", "Nan Cao"],
+        "journal": "Computer Graphics Forum",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1111/cgf.14324"
+    },
+    {
+        "idx": "Motion",
+        "title": "Communicating with Motion: A Design Space for Animated Visual Narratives in Data Videos",
+        "year": "2021",
+        "dataTypes": [],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 82,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://videoexplorer.idvxlab.com/",
+        "authors": ["Yang Shi", "Xingyu Lan", "Jingwen Li", "Zhaorui Li", "Nan Cao"],
+        "journal": "Prcoceedings of CHI Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3411764.3445337"
+    },
+    {
+        "idx": "Kineticharts",
+        "title": "Kineticharts: Augmenting Affective Expressiveness of Charts in Data Stories with Animation Design",
+        "year": "2021",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 259,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "http://kineticharts.idvxlab.com/#",
+        "authors": ["Xingyu Lan", "Yang Shi", "Yanqiu Wu", "Xiaohan Jiao", "Nan Cao"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2021.3114775"
+    },
+    {
+        "idx": "Data-GIF",
+        "title": "What makes a Data-GIF understandable?",
+        "year": "2021",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 108,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://data-gifs.github.io/",
+        "authors": ["Xinhuan Shu", "Aoyu Wu", "Junxiu Tang", "Benjamin Bach", "Yingcai Wu", "Huamin Qu"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2020.3030396"
+    },
+    {
+        "idx": "NLV Corpus",
+        "title": "Collecting and characterizing natural language utterances for specifying data visualizations",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 893,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://nlvcorpus.github.io/",
+        "authors": ["Arjun Srinivasan", "Nikhila Nyapathy", "Bongshin Lee", "Steven M. Drucker", "John Stasko"],
+        "journal": "In Proceedings of Conference on Human Factors in Computing Systems",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3411764.3445400"
+    },
+    {
+        "idx": "NL2VIS",
+        "title": "Synthesizing Natural Language to Visualization (NL2VIS) Benchmarks from NL2SQL Benchmarks",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Combining"
+        ],
+        "dataExtension": [
+            "Manual",
+            "Rule-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 25750,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/TsinghuaDatabaseGroup/nvBench",
+        "authors": ["Yuyu Luo", "Nan Tang", "Guoliang Li", "Chengliang Chai","Wenbo Li", "Xuedi Qin"],
+        "journal": "Proceedings ofthe ACM SIGMOD International Conference on Management of Data",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3448016.3457261"
+    },
+    {
+        "idx": "SCICAP",
+        "title": "SciCap: Generating Captions for Scientific Figures",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "NL",
+            "VIS Type"
+        ],
+        "visTypes": [
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Crawling",
+            "Extraction"
+        ],
+        "dataExtension": [
+            "Learning-based"
+        ],
+        "techniques": [
+            "Translation",
+            "OCR"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 358972,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Ting Yao Hsu", "C. Lee Giles", "Ting Hao Huang"],
+        "journal": "Findings of the Association for Computational Linguistics Findings of ACL: EMNLP 2021",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.18653/v1/2021.findings-emnlp.277"
+    },
+    {
+        "idx": "Table2Charts",
+        "title": "Table2charts: Recommending charts by learning shared representations",
+        "year": "2021",
+        "dataTypes": [
+            "VIS",
+            "NL",
+            "Data",
+            "Mapping"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crowdsourcing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 431000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Mengyu Zhou", "Qingtao Li", "Xinyi He", "Yuejiang Li", "Yibo Liu", "Wei Ji", "Shi Han", "Yining Chen", "Daxin Jiang", "Dongmei Zhang"],
+        "journal": "Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1145/3447548.3467279"
+    },
+    {
+        "idx": "STNet",
+        "title": "STNet: An End-to-End Generative Framework for Synthesizing Spatiotemporal Super-Resolution Volumes",
+        "year": "2021",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 650,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Jun Han", "Hao Zheng", "Danny Z. Chen", "Chaoli Wang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2021.3114815"
+    },
+    {
+        "idx": "ChartQA",
+        "title": "Chartqa: A benchmark for question answering about charts with visual and logical reasoning",
+        "year": "2022",
+        "dataTypes": [
+            "VIS",
+            "NL"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Crawling"
+        ],
+        "dataExtension": [
+            "Manual",
+            "Learning-based"
+        ],
+        "techniques": [
+            "Translation"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 32700,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/vis-nlp/ChartQA",
+        "authors": ["Ahmed Masry", "Do Xuan Long", "Jia Qing Tan", "Shafiq Joty", "Enamul Hoque"],
+        "journal": "Proceedings of the Annual Meeting of the Association for Computational Linguistics ",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.18653/v1/2022.findings-acl.177"
+    },
+    {
+        "idx": "MultiVision",
+        "title": "MultiVision: Designing Analytical Dashboards with Deep Learning Based Recommendation.",
+        "year": "2022",
+        "dataTypes": [
+            "VIS"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter",
+            "Line"
+        ],
+        "rawDataConstruction": [
+            "Combining"
+        ],
+        "dataExtension": [],
+        "techniques": [
+            "Classification"
+        ],
+        "tasks": [
+            "Visualization Recommendation"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 3920941,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://github.com/microsoft/Table2Charts",
+        "authors": ["Aoyu Wu", "Yun Wang", "Mengyu Zhou", "Xinyi He","Haidong Zhang", "Huamin Qu", "Dongmei Zhang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2021.3114826"
+    },
+    {
+        "idx": "GoTreeScape",
+        "title": "GoTreeScape: Navigate and Explore the Tree Visualization Design Space",
+        "year": "2022",
+        "dataTypes": [
+            "VIS",
+            "Data",
+            "Mapping"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [],
+        "techniques": [
+            "Dimensionality Reduction"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Exploration"
+        ],
+        "size": 62340,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Guozheng Li", "Xiaoru Yuan"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2022.3215070"
+    },
+    {
+        "idx": "Pictorial",
+        "title": "Supporting Expressive and Faithful Pictorial Visualization Design with Visual Style Transfer",
+        "year": "2022",
+        "dataTypes": [],
+        "visTypes": [
+            "Bar",
+            "Line",
+            "Area",
+            "Pie"
+        ],
+        "rawDataConstruction": [
+            "Crawling",
+            "Combining"
+        ],
+        "dataExtension": [
+            "Manual"
+        ],
+        "techniques": [],
+        "tasks": [],
+        "applications": [],
+        "size": 1371,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "https://idvxlab.com/vistylist/",
+        "authors": ["Yang Shi", "Pei Liu", "Siji Chen", "Mengdi Sun", "Nan Cao"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/tvcg.2022.3209486"
+    },
+    {
+        "idx": "CoordNet",
+        "title": "CoordNet: Data Generation and Visualization Generation for Time-Varying Volumes via a Coordinate-Based Neural Network",
+        "year": "2022",
+        "dataTypes": [
+            "Data"
+        ],
+        "visTypes": [],
+        "rawDataConstruction": [
+            "Synthesizing"
+        ],
+        "dataExtension": [
+            "Rule-based"
+        ],
+        "techniques": [
+            "Regression"
+        ],
+        "tasks": [
+            "Feature Extraction"
+        ],
+        "applications": [
+            "Generation"
+        ],
+        "size": 32000,
+        "stillGrow": [
+            "No"
+        ],
+        "url": "",
+        "authors": ["Jun Han", "Chaoli Wang"],
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "venue": "",
+        "venueField": "",
+        "doi": "10.1109/TVCG.2022.3197203"
+    }
+]

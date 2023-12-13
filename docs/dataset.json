@@ -1,0 +1,41 @@
+[
+    {
+        "idx": "Revision",
+        "title": "Savva et al. Revision: Automated classification, analysis and redesign of chart Images",
+        "authors": [
+            
+        ],
+        "journal": "",
+        "venue": "",
+        "venueField": "",
+        "year": 2017,
+        "doi": "",
+        "dataTypes": [
+            "VIS",
+            "VIS Type"
+        ],
+        "visTypes": [
+            "Bar",
+            "Scatter"
+        ],
+        "rawDataConstruction": [
+
+        ],
+        "dataExtension": [
+
+        ],        
+        "techniques": [
+
+        ],
+        "tasks": [
+
+        ],
+        "applications": [
+
+        ],
+        "useForLearning": 0,
+        "size": 100,
+        "stillGrow": 0,
+        "url": ""
+    }
+]
